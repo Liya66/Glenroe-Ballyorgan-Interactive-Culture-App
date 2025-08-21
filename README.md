@@ -1,6 +1,4 @@
-Absolutely! Here’s your **entire README fully formatted in Markdown**, with clear headings, code blocks, lists, and GitHub-friendly styling:
 
-````markdown
 # Glenroe-Ballyorgan iOS Application
 
 This iOS application serves as a digital platform for preserving local history and culture using multimedia and AR technologies. The main features include GPS-triggered AR experiences, a content library, voice recognition, Firebase integration, and multimedia playback.
