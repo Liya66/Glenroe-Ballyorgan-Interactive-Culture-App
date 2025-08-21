@@ -143,9 +143,4 @@ Add your Mapbox API key to the `Info.plist` file:
 * [Mapbox Developer Guide](https://docs.mapbox.com/)
 * [Apple ARKit Documentation](https://developer.apple.com/augmented-reality/)
 
-```
 
----
-
-
-```
